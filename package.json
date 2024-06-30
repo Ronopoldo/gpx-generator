@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "FileReader": "^0.10.2",
+    "stream-json": "^1.8.0",
+    "xml-js": "^1.6.11"
+  }
+}
